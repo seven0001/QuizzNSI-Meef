@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quizz NSI</string>
+    <string name="button_premiere">Première</string>
+    <string name="button_terminale">Terminale</string>
+    <string name="premiere_title">Premiere Quizz</string>
+    <string name="terminale_title">Terminale Quizz</string>
+    <string name="question_number">Question n°</string>
+    <string name="ajoutez_une_question">Ajoutez une question</string>
+    <string name="entrez_la_question">Entrez la question</string>
+    <string name="r_ponse_1">Réponse 1</string>
+    <string name="r_ponse_2">Réponse 2</string>
+    <string name="r_ponse_3">Réponse 3</string>
+    <string name="r_ponse_4">Réponse 4</string>
+    <string name="bonne_r_ponse">Bonne réponse</string>
+    <string name="ajouter_la_question">Ajouter la question</string>
+    <string-array name="category_array">
+        <item>Première</item>
+        <item>Terminale</item>
+    </string-array>
+</resources>
